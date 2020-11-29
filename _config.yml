@@ -1,0 +1,28 @@
+title: "Qiajue 的个人网页"
+description: "Qiajue 的个人网页"
+url: https://qiajue.github.io/
+baseurl: ""
+author: "Qiajue"
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jemoji
+  - jekyll-paginate
+
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-mdui.gemspec
+  - LICENSE.txt
+  - README.md
+  - vendor
+  - docs

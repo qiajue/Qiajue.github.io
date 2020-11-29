@@ -1,0 +1,7 @@
+qiajue:
+  avatar: "../assets/images/touch/icon-qiajue-640x640.png"
+  name: "Qiajue"
+
+test:
+  avatar: "https://dummyimage.com/40x40/ffffff/000000.png&text=Test"
+  name: "Test"
